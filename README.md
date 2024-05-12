@@ -2,10 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>VPN Deployment & Traffic Analysis (Open VPN, Wireshark, FTP, Virtual Windows Server, AWS)</b>
-  - [VPN Deployment & Traffic Analysis](https://github.com/RomoloSingh/VPNLab)
-- <b>Enterprise IT Transformation and Security Implementation (VMware ESXI, Cisco, PowerShell, RADIUS)</b>
-   - [Enterprise IT Transformation and Security Implementation](https://github.com/joshmadakor1/Algorithms-Practice)
+[VPN Deployment & Traffic Analysis](https://github.com/RomoloSingh/VPNLab)
+
+[Enterprise IT Transformation and Security Implementation](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📄Certifications </h2>
 
