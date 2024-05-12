@@ -12,6 +12,7 @@
 
 <h2>🔭 I’m currently working on:</h2>
 Comptia Security+
+
 Cisco Certified Network Associate (CCNA)
 
 <h2>📺 Popular YouTube Videos</h2>
