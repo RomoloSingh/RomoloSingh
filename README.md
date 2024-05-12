@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-[VPN Deployment & Traffic Analysis](https://github.com/RomoloSingh/VPNLab)
+[VPN Deployment & Network Traffic Analysis](https://github.com/RomoloSingh/VPNLab)
 
 [Enterprise IT Transformation and Security Implementation](https://github.com/joshmadakor1/Algorithms-Practice)
 
