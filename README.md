@@ -6,7 +6,7 @@
 
 [Enterprise IT Transformation and Security Implementation](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📄Certifications </h2>
+<h2>📄Certifications:</h2>
 
 - Comptia A+
 
