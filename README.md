@@ -26,7 +26,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/RomoloSingh
-[youtube]: https://www.youtube.com/c/ThePresigeNetwork
+[youtube]: https://www.youtube.com/channel/UCetIVWPVFMN6p9gE_puA5fw
 [instagram]: https://www.instagram.com/RomoloSingh/
 [linkedin]: https://linkedin.com/in/RomoloSingh
 
