@@ -10,6 +10,14 @@
 
 - CompTIA A+
 
+<h2>📚 Degrees:</h2>
+UAlbany, BS in Cybersecurity
+
+(Expected Graduation 2026)
+
+
+SCCC, AAS in Cybersecurity & Information Assurance (2024)
+
 <h2>🔭 I’m currently working on:</h2>
 CompTIA Security+
 
