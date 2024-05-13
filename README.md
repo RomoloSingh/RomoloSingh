@@ -8,10 +8,10 @@
 
 <h2>📄Certifications:</h2>
 
-- Comptia A+
+- CompTIA A+
 
 <h2>🔭 I’m currently working on:</h2>
-Comptia Security+
+CompTIA Security+
 
 Cisco Certified Network Associate (CCNA)
 
