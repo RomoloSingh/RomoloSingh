@@ -1,10 +1,10 @@
-<h1>Hi, I'm Romolo! <br/><a href="https://github.com/joshmadakor1">IT Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>, <a href="https://www.youtube.com/c/joshmadakor">Youtuber</a></h1>
+<h1>Hi, I'm Romolo! <br/><a href="https://github.com/joshmadakor1">IT Professional</a> <a href="https://www.linkedin.com/in/joshmadakor/">and</a> <a href="https://www.youtube.com/c/joshmadakor">Cybersecurity Student</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 [VPN Deployment & Network Traffic Analysis](https://github.com/RomoloSingh/VPNLab)
 
-[Enterprise IT Transformation and Security Implementation](https://github.com/joshmadakor1/Algorithms-Practice)
+[Enterprise IT Transformation and Security Implementation](https://github.com/RomoloSingh/VPNLab)
 
 <h2>📄 Certifications:</h2>
 
