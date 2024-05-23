@@ -4,7 +4,7 @@
 
 [VPN Deployment & Network Traffic Analysis](https://github.com/RomoloSingh/VPNLab)
 
-[Enterprise IT Transformation and Security Implementation](https://github.com/RomoloSingh/VPNLab)
+[Enterprise IT Transformation and Security Implementation](https://github.com/RomoloSingh/Capstone)
 
 <h2>📄 Certifications:</h2>
 
