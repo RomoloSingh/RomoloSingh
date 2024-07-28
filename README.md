@@ -9,7 +9,6 @@
 <h2>📄 Certifications:</h2>
 
 - CompTIA A+
-- AZ-900
 
 <h2>📚 Degrees:</h2>
 UAlbany, BS in Cybersecurity
