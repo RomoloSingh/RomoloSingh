@@ -5,7 +5,7 @@
 - <b>Azure/Cloud Cybersecurity Projects<b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/RomoloSingh/Azure-SOC)
 
-- <b>Windows Server Projects<b>
+- <b>Network Security Projects<b>
   - [VPN Deployment & Network Traffic Analysis](https://github.com/RomoloSingh/VPNLab)
 
 
