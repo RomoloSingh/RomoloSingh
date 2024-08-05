@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-[VPN Deployment & Network Traffic Analysis](https://github.com/RomoloSingh/VPNLab)
+[Azure SOC](https://github.com/RomoloSingh/Azure-SOC)
 
 [VPN Deployment & Network Traffic Analysis](https://github.com/RomoloSingh/VPNLab)
+
 
 <h2>📄 Certifications:</h2>
 
