@@ -1,4 +1,4 @@
-<h1>Hi, I'm Romolo! <br/><a href="https://github.com/RomoloSingh">IT Professional</a> and <a href="https://www.linkedin.com/in/RomoloSingh/">Cybersecurity Student</a></h1>
+<h1>Hi, I'm Romolo! <br/><a href="https://github.com/RomoloSingh">Cybersecurity Professional</a> and <a href="https://www.linkedin.com/in/RomoloSingh/">Cybersecurity Student</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
