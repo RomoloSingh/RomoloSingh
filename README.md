@@ -1,10 +1,12 @@
 <h1>Hi, I'm Romolo! <br/><a href="https://github.com/RomoloSingh">IT Professional</a> and <a href="https://www.linkedin.com/in/RomoloSingh/">Cybersecurity Student</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
-[Azure SOC](https://github.com/RomoloSingh/Azure-SOC)
+- <b>Azure/Cloud Cybersecurity Projects<b>
+  - [Creating a live SOC/Honeynet in Azure](https://github.com/RomoloSingh/Azure-SOC)
 
-[VPN Deployment & Network Traffic Analysis](https://github.com/RomoloSingh/VPNLab)
+- <b>Windows Server Projects<b>
+  - [VPN Deployment & Network Traffic Analysis](https://github.com/RomoloSingh/VPNLab)
 
 
 <h2>📄 Certifications:</h2>
