@@ -14,7 +14,7 @@
 - CompTIA A+
 
 <h2>📚 Degrees:</h2>
-UAlbany, BS in Cybersecurity
+UAlbany, BS in Cybersecurity (Fully remote)
 
 (Expected Graduation 2026)
 
