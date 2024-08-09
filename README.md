@@ -24,7 +24,7 @@ SCCC, AAS in Cybersecurity & Information Assurance (2024)
 <h2>🔭 I’m currently working on:</h2>
 CompTIA Security+
 
-Cisco Certified Network Associate (CCNA)
+CompTIA Network+
 
 <h2> 🤳 Connect with me:</h2>
 
