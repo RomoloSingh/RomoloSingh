@@ -12,6 +12,7 @@
 <h2>📄 Certifications:</h2>
 
 - CompTIA A+
+- CompTIA Security+
 
 <h2>📚 Degrees:</h2>
 UAlbany, BS in Cybersecurity
@@ -22,7 +23,7 @@ UAlbany, BS in Cybersecurity
 SCCC, AAS in Cybersecurity & Information Assurance (2024)
 
 <h2>🔭 I’m currently working on:</h2>
-CompTIA Security+
+CompTIA Network+
 
 Cisco CCNA
 
