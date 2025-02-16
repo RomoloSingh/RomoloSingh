@@ -12,7 +12,6 @@
 <h2>📄 Certifications:</h2>
 
 - CompTIA A+
-- CompTIA Security+
 
 <h2>📚 Degrees:</h2>
 UAlbany, BS in Cybersecurity
